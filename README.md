@@ -1,49 +1,89 @@
-# ML Beginner Projects
+# Machine Learning Projects
 
-This repository contains a collection of **beginner-level Machine Learning projects** created while learning core ML concepts and algorithms.
+This repository contains a collection of **Machine Learning projects** built while learning and applying core ML concepts.
 
-The goal of this repo is to:
-- Practice ML fundamentals  
-- Understand how different algorithms work  
-- Build consistency with small, focused projects  
+The repository includes:
+
+* Beginner-friendly ML projects for understanding algorithms
+* Practical implementations on real datasets
+* A research-oriented project focused on **Particle Accelerator Parameter Prediction**
+
+---
+
+## 🎯 Objectives
+
+* Learn and implement Machine Learning algorithms
+* Understand data preprocessing, model training, and evaluation
+* Explore both educational and real-world ML applications
+* Build a strong foundation in applied Machine Learning
 
 ---
 
 ## 📂 Project Structure
 
-Each project is stored in a separate folder and usually contains:
-- A Jupyter Notebook (`.ipynb`)
-- Dataset (if required)
-- A short README explaining the idea
+Each project is organized in its own folder and may contain:
+
+* Jupyter Notebooks (`.ipynb`)
+* Datasets (if required)
+* Project-specific documentation
+* Model training and evaluation code
 
 ---
 
-## 🧠 Algorithms Covered
-- Linear Regression  
-- Logistic Regression  
-- KNN  
-- Decision Tree  
-- Random Forest  
-- Naive Bayes  
-- Support Vector Machine  
+## 🧠 Algorithms & Techniques Covered
 
-(more will be added as I learn)
+* Linear Regression
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Decision Trees
+* Random Forests
+* Naive Bayes
+* Support Vector Machines (SVM)
+* Feature Engineering
+* Model Evaluation & Validation
+
+*(More algorithms and techniques will be added as the learning journey continues.)*
+
+---
+
+## 🔬 Featured Project: Particle Accelerator Parameter Prediction
+
+A Machine Learning project inspired by accelerator physics and beamline systems.
+
+### Goal
+
+Predict accelerator and beam-related parameters using experimental and operational data from a Drift Tube Linac (DTL) system.
+
+### Key Areas
+
+* Data preprocessing and analysis
+* Parameter correlation study
+* Regression-based prediction models
+* Beam and accelerator parameter estimation
+* Scientific Machine Learning applications
+
+This project combines Machine Learning with accelerator physics to explore data-driven approaches for parameter prediction and optimization.
 
 ---
 
 ## 🛠 Tools & Libraries
-- Python  
-- NumPy  
-- Pandas  
-- Matplotlib / Seaborn  
-- Scikit-learn  
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
 
 ---
 
-## 🚀 Note
-These are **learning projects**, not production-level applications.  
-More advanced and deployed ML projects will be maintained in separate repositories.
+## 🚀 Repository Status
+
+This repository serves as a learning and experimentation space for Machine Learning.
+
+Projects range from beginner-level algorithm implementations to more advanced real-world applications. As new concepts are learned and explored, additional projects will be added here.
 
 ---
 
-⭐ Feel free to explore the notebooks and track my learning journey.
+⭐ Feel free to explore the projects, review the notebooks, and follow my Machine Learning journey.
